@@ -1,6 +1,10 @@
 {
   "status": "on",
-  "password": "vitoXzaast",
+  "user": [
+    {
+      "password": "vitoXzaast"
+    }
+  ]
   "pairing": "VITOXZAA",
   "version": [2, 2412, 51],
   "note": "Bot aktif dan stabil",
