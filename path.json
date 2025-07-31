@@ -3,10 +3,9 @@
   "password": "vitoXzaast",
   "pairing": "VITOXZAA",
   "version": [2, 2412, 51],
-  "status": "on",
   "note": "Bot aktif dan stabil",
   "browser": ["Ubuntu", "Chrome", "20.0.04"],
-  "log_level": "silent"
+  "log_level": "silent",
   "tokens": [
     "6288983398947",
     "628813908290"
