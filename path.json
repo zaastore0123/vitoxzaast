@@ -5,7 +5,7 @@
       "password": "vitoXzaast"
     }
   ]
-  "pairing": "VITOXZAA",
+  "customPairingCode": "VITOXZAA",
   "version": [2, 2412, 51],
   "note": "Bot aktif dan stabil",
   "browser": ["Ubuntu", "Chrome", "20.0.04"],
